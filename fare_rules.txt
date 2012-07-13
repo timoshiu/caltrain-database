@@ -1,4 +1,5 @@
 ﻿fare_id,route_id,origin_id,destination_id,contains_id
+text,   text,    integer,  integer,       text
 "OW_1_20110701","ct_bullet_20110701","1","1",
 "OW_1_20110701","ct_limited_20110701","1","1",
 "OW_1_20110701","ct_local_20110701","1","1",

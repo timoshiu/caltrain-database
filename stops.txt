@@ -1,4 +1,5 @@
 ﻿stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url
+text,   text,     text,     float,   float,   integer,text
 "22nd Street Caltrain","22nd Street Caltrain Station","1149 22nd Street,San Francisco","37.757674","-122.392636","1",
 "Atherton Caltrain","Atherton Caltrain Station","1 Dinkelspiel Station Lane, Atherton","37.464349","-122.198106","3",""
 "Bayshore Caltrain","Bayshore Caltrain Station","400 Tunnel Avenue,San Francisco","37.709544","-122.401318","1",

@@ -1,4 +1,5 @@
 ﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+text,      text,  text,   text,     text,    text,  text,    text,  text,      text
 "ST_20110701","0","0","0","0","0","1","0","20110701","20120630"
 "WD_20110701","1","1","1","1","1","0","0","20110701","20120630"
 "WE_20110701","0","0","0","0","0","1","1","20110701","20120630"

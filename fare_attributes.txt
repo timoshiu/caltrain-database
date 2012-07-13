@@ -1,4 +1,5 @@
 ﻿fare_id,price,currency_type,payment_method,transfers,transfer_duration
+text,   float,text,         text,          text,     text
 "OW_1_20110701",2.7500,"USD","1",,
 "OW_2_20110701",4.7500,"USD","1",,
 "OW_3_20110701",6.7500,"USD","1",,
